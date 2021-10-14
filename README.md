@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hp22init
+- 👀 Coding Practice
+- 🌱 Java, python, react
